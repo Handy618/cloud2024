@@ -1,0 +1,6 @@
+com\handy\cloud\service\StorageService.class
+com\handy\cloud\controller\StorageController.class
+com\handy\cloud\mapper\StorageMapper.class
+com\handy\cloud\SeataStorageMainApp2002.class
+com\handy\cloud\service\impl\StorageServiceImpl.class
+com\handy\cloud\entities\Storage.class
